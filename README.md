@@ -12,9 +12,13 @@ Add stock as txt files with the usernames and passwords seperated by a ':'
 List of commands:
 
 /clear {stock} = clears the txt file of all the stock inside of it
+
 /gen {stock} = sends the user a dm with 1 line from the stock they requested
+
 /add {stock} {username:password} = adds an account to a stock
+
 /create {stock} = creates a blank.txt file with the name of the stock you want.
+
 /blacklist {user} = blacklists a user from using the bot.
 
 
