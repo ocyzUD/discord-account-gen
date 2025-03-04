@@ -1,0 +1,5 @@
+// make your own text files in the stock folder with this format:
+
+username:password
+      or
+email:password
